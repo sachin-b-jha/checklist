@@ -24,6 +24,9 @@
 
 ### 🔍 Reviewer PR Checklist
 
+#### 👤 Reviewer Information
+- Reviewer GitHub Username: `@__________`
+
 #### General
 - [ ] The purpose and scope of the PR are clear.
 - [ ] The code changes make sense and solve the stated problem.
